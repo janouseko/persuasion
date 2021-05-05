@@ -14,7 +14,13 @@ Run `run_all.py`. See *output.pdf* and *output.txt* in working dir.
 or
 
 Run individual scripts sequentially:
-1. `load_biosignals_record.py`
-2. `evaluate_signals.py`
-3. `evaluate_behaviour.py`
-4. `incorporate_annotation.py`,
+1. `load_biosignals.py`
+2. `incorporate_annotation.py`
+3. `incorporate_device.py`
+4. `incorporate_description`
+5. `evaluate_signals.py`
+6. `evaluate_behaviour.py`
+7. `analyse.py`
+8. `add_units_and_explanation.py`
+9. `estimate_persuasion.py`
+10. `show_results.py`
