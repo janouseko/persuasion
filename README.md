@@ -17,7 +17,7 @@ Run individual scripts sequentially:
 1. `load_biosignals.py`
 2. `incorporate_annotation.py`
 3. `incorporate_device.py`
-4. `incorporate_description`
+4. `incorporate_description.py`
 5. `evaluate_signals.py`
 6. `evaluate_behaviour.py`
 7. `analyse.py`
