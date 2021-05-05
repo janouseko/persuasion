@@ -9,8 +9,7 @@ Brno University of Technology, Masaryk University and The Janáček Academy of M
 2. download [biosignal record database](https://drive.google.com/file/d/1bvtsGG7NHU1nbTTuAJb6lsSn_bU1p1j8/view?usp=sharing) into working dir.
 
 # Run
-Run `run_all.py`
-See output.pdf and output.txt in working dir. 
+Run `run_all.py`. See output.pdf and output.txt in working dir. 
 
 or
 
