@@ -14,5 +14,5 @@ Run `run_all.py`. See *output.pdf* and *output.txt* in working dir.
 or
 
 Run individual scripts sequentially:
-1. load_biosignals_record.py
-2. evaluate_signals.py
+1. `load_biosignals_record.py`
+2. `evaluate_signals.py`
