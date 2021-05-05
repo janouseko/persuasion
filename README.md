@@ -26,3 +26,6 @@ Run individual scripts sequentially:
 10. `show_results.py`
 
 See *output.pdf* and *output.txt* in working dir. 
+
+# Miscellaneous
+Free space >3 GB required, due to result database file (db.pickle) being saved on local drive.
