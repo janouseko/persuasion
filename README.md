@@ -11,7 +11,7 @@ Brno University of Technology, Masaryk University and The Janáček Academy of M
 # Run
 Run `run_all.py`. See *output.pdf* and *output.txt* in working dir. 
 
-or
+**or**
 
 Run individual scripts sequentially:
 1. `load_biosignals.py`
@@ -24,3 +24,4 @@ Run individual scripts sequentially:
 8. `add_units_and_explanation.py`
 9. `estimate_persuasion.py`
 10. `show_results.py`
+See *output.pdf* and *output.txt* in working dir. 
